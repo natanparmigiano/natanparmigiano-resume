@@ -6,6 +6,7 @@ export const resume = {
       location: 'São Caetano do Sul, São Paulo, Brazil',
       email: 'natan.parmigiano@gmail.com',
       linkedin: 'https://www.linkedin.com/in/natanparmigiano',
+      portfolio: 'https://portfolio.natan.parmigiano.tech',
       focusAreas: ['Distributed Systems', 'Cloud Infrastructure', 'Platform Engineering'],
       stats: [
         { value: '8+', label: 'years building software' },
@@ -293,6 +294,7 @@ export const resume = {
     labels: {
       primaryStack: 'Primary stack',
       viewOnLinkedIn: 'LinkedIn',
+      portfolio: 'Portfolio',
       email: 'Email',
       themeLight: 'Light mode',
       themeDark: 'Dark mode',
@@ -305,6 +307,7 @@ export const resume = {
       location: 'São Caetano do Sul, São Paulo, Brasil',
       email: 'natan.parmigiano@gmail.com',
       linkedin: 'https://www.linkedin.com/in/natanparmigiano',
+      portfolio: 'https://portfolio.natan.parmigiano.tech',
       focusAreas: ['Sistemas Distribuídos', 'Infraestrutura Cloud', 'Platform Engineering'],
       stats: [
         { value: '8+', label: 'anos desenvolvendo software' },
@@ -592,6 +595,7 @@ export const resume = {
     labels: {
       primaryStack: 'Stack principal',
       viewOnLinkedIn: 'LinkedIn',
+      portfolio: 'Portfólio',
       email: 'E-mail',
       themeLight: 'Modo claro',
       themeDark: 'Modo escuro',

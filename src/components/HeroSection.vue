@@ -58,6 +58,14 @@ defineProps({
         >
           {{ labels.viewOnLinkedIn }}
         </a>
+        <a
+          :href="meta.portfolio"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--bg-elevated)]/80 px-4 py-2.5 text-sm font-semibold text-[var(--text)] no-underline shadow-[var(--shadow)] transition hover:-translate-y-0.5 hover:border-[var(--accent)] hover:text-[var(--accent)]"
+        >
+          {{ labels.portfolio }}
+        </a>
       </div>
     </div>
 
