@@ -2,6 +2,7 @@
   "name": "natanparmigiano-resume",
   "private": true,
   "version": "1.0.0",
+  "license": "Unlicense",
   "type": "module",
   "scripts": {
     "dev": "vite",
