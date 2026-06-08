@@ -12,6 +12,7 @@ São Caetano do Sul, São Paulo, Brazil
 Principal Engineer and Software Architect with 8+ years of experience building distributed systems, cloud-native platforms, and real-time applications. Designed and operated 20+ production systems processing millions of transactions using Node.js, TypeScript, PostgreSQL, Kubernetes, AWS, and GCP. Strong track record driving architecture, platform reliability, and technical direction across growing engineering organizations.
 
 Web Resume: https://natan.parmigiano.tech
+Portfolio: https://portfolio.natan.parmigiano.tech
 
 ## EXPERIENCE
 
