@@ -9,7 +9,7 @@ São Caetano do Sul, São Paulo, Brazil
 
 ## SUMMARY
 
-Principal Level Engineer and Software Architect with 9 years building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization. Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established the architecture standards, observability practices, and CI/CD pipelines adopted across every team.
+Principal Level Engineer and Software Architect with 9 years of experience building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization. Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established architecture standards, observability practices, and CI/CD pipelines adopted across every team.
 
 Web Resume: https://natan.parmigiano.tech
 Portfolio: https://portfolio.natan.parmigiano.tech
@@ -18,40 +18,40 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 
 ### CTO | Paganini Tech | São Paulo | July 2021 - PRESENT
 
-- Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.
+- Ran interviews, hired, and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.
 - Architected and delivered more than 20 production systems spanning internal products, client platforms, and outsourcing initiatives.
-- Established engineering standards and infrastructure patterns adopted across over 20 individual projects.
+- Established engineering standards and infrastructure patterns adopted across 20+ projects.
 - Introduced observability, CI/CD, and platform engineering practices that became organization-wide standards.
 - Designed and implemented distributed systems leveraging event-driven architectures, message queues, pub/sub patterns, CDC pipelines, and real-time data streaming architectures, processing millions of transactions and supporting large-scale real-time workloads.
 - Led cloud infrastructure strategy across AWS and GCP using Docker, Kubernetes, Terraform, Pulumi, and CI/CD pipelines, maintaining over 15 production servers.
 - Participated directly in hiring processes, performance management, roadmap planning, client meetings, and technical pre-sales initiatives.
 - Continue to lead architecture reviews, incident response, infrastructure troubleshooting, and complex technical delivery initiatives.
-- Primary stack: Node.js, TypeScript, Vue.js, PostgreSQL, Redis, Kubernetes, AWS, GCP, Docker, Pulumi, Grafana and AI Systems. Occasionally utilizing PHP, C#, Python, MySQL, DynamoDB, React, React Native.
-- Directed organization-wide adoption of engineering best practices by conducting code reviews, implementing static analysis such as ESLint, successfully implementing practices across all 20+ projects over a 24-month period, in multiple tech stacks.
+- Primary stack: Node.js, TypeScript, Vue.js, PostgreSQL, Redis, Kubernetes, AWS, GCP, Docker, Pulumi, Grafana, and AI Systems. Occasionally utilizing PHP, C#, Python, MySQL, DynamoDB, React, and React Native.
+- Directed organization-wide adoption of engineering best practices by conducting code reviews, implementing static analysis such as ESLint, and successfully implementing practices across all 20+ projects over a 24-month period, in multiple tech stacks.
 
 ### Senior Engineer | Paganini Tech | São Paulo | July 2020 - June 2021
 
-- Architected and developed over 5 successfully deployed software products owning the entire stack from frontend to backend and SDLC and infrastructure.
+- Architected and developed over 5 successfully deployed software products, owning the entire stack from frontend to backend and SDLC and infrastructure.
 - Led meetings with client stakeholders, acting as the contact point for defining and refining product requirements and validating delivery.
-- Helped optimize and pinpoint performance issues in database queries and procedures measurably helping operational stability across different software solutions.
+- Helped optimize and pinpoint performance issues in database queries and procedures, measurably helping operational stability across different software solutions.
 - Implemented and enforced SSL and deployment security practices into 4 legacy applications, handling the necessary adaptations and changes to bring a mature security posture to already deployed software.
-- Successfully deployed, tracked operational performance and provided key touchstone training inside client organizations for more than 5 software solutions.
+- Successfully deployed, tracked operational performance, and provided key touchstone training inside client organizations for more than 5 software solutions.
 - Designed and implemented performance-critical components for high-volume real-time data processing systems, capable of processing thousands of simultaneous requests.
-- Set up the initial cloud infrastructure and environment setup, personally configuring and deploying over 6 servers, that would become the foundation for the company's software operation.
+- Set up the initial cloud infrastructure and environment, personally configuring and deploying more than 6 servers that would become the foundation of the company’s software operations.
 - Weighed in on transformative stack changes that would set the new standards for future projects inside the organization, pushing the migration to market-leading stack choices and allowing the organization to measurably accelerate the software development process.
-- Introduced and standardized PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana and other industry-leading technologies in an organization that utilized Oracle DB and Oracle APEX as the main stack, measurably reducing operational cost and complexity in new projects.
-- Tackled client challenges in PHP, C#, Java, Python and mixed codebases, operating as the team's polyglot programmer and empowering an existing team to deliver value in unfamiliar grounds while keeping confidence high.
+- Introduced and standardized PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana, and other industry-leading technologies in an organization that utilized Oracle DB and Oracle APEX as the main stack, measurably reducing operational cost and complexity in new projects.
+- Tackled client challenges in PHP, C#, Java, Python, and mixed codebases, operating as the team’s polyglot programmer and empowering an existing team to deliver value in unfamiliar grounds while keeping confidence high.
 
 ### Co-founder & IT Director | Marketing Labs | São Paulo | August 2019 - July 2020
 
-- Started an operation from scratch scaling to a 5-person team.
-- Directly negotiated and landed contracts with over 5 clients spanning different sectors and building a strong network of contacts that would serve as a strong foundation throughout the years.
-- Provided software development services to companies in the HR, Insurance, Real Estate and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals and employee portals.
+- Started an operation from scratch, scaling to a 5-person team.
+- Directly negotiated and landed contracts with over 5 clients spanning different sectors, and built a strong network of contacts that would serve as a strong foundation throughout the years.
+- Provided software development services to companies in the HR, Insurance, Real Estate, and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals, and employee portals.
 - Delivered 7 custom ERP systems, internal business applications, and end-user-facing applications.
 - Created and owned the entire stack for solutions that reached large Brazilian organizations through strategic partnerships, 2 of which reached multinational corporations.
 - Directly coordinated and handled technical execution, client relationships, and operational decision-making.
 - Managed servers and infrastructure for all published projects.
-- Implemented version control, SDLC, CI/CD and the entire development workflow for the organization.
+- Implemented version control, SDLC, CI/CD, and the entire development workflow for the organization.
 - Primary Stack: PHP, MySQL, PostgreSQL, JavaScript, frontend technologies (HTML, CSS).
 
 ### Fullstack Developer | Make Acelerador de Vendas | São Paulo | March 2019 - September 2019
@@ -62,7 +62,7 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 - Supported large-scale client platforms and mission-critical operational systems.
 - Directly managed and implemented e-Commerce platforms for large enterprise clients.
 - Direct ownership of the infrastructure and server configuration that supported the 3 applications developed during the contract.
-- Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in-house based on an open source offering.
+- Managed the intranet solution for the company, including a 5-component internal shared storage, collaboration, and task management suite developed in-house based on an open source offering.
 - Primary Stack: PHP, MySQL, JavaScript, CSS, Vue.js.
 
 ### Fullstack Developer | Freelancer | São Paulo | January 2017 - March 2019
@@ -151,13 +151,13 @@ São Bernardo do Campo, SP | 2017
 
 ## CERTIFICATIONS
 
-### Information Systems Auditing, Controls and Assurance
+### Information Systems Auditing, Controls, and Assurance
 
 - Advanced coursework covering IT governance, risk management, auditing methodologies, controls, and assurance practices.
 
 ### Data Engineering
 
-- Focused on modern data engineering practices including ETL pipelines, data warehousing, distributed data processing, cloud data platforms, and large-scale data management.
+- Focused on modern data engineering practices, including ETL pipelines, data warehousing, distributed data processing, cloud data platforms, and large-scale data management.
 
 ### Python for Data Science, AI & Development
 

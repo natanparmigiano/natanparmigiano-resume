@@ -26,8 +26,8 @@ export const resume = {
     summary: {
       title: 'Professional Summary',
       paragraphs: [
-        'Principal Level Engineer and Software Architect with 9 years building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization.',
-        'Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established the architecture standards, observability practices, and CI/CD pipelines adopted across every team.',
+        'Principal Level Engineer and Software Architect with 9 years of experience building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization.',
+        'Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established architecture standards, observability practices, and CI/CD pipelines adopted across every team.',
       ],
     },
     competencies: {
@@ -104,15 +104,15 @@ export const resume = {
           period: 'Jul 2021 — Present',
           intro: [],
           highlights: [
-            'Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
+            'Ran interviews, hired, and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
             'Architected and delivered more than 20 production systems spanning internal products, client platforms, and outsourcing initiatives.',
-            'Established engineering standards and infrastructure patterns adopted across over 20 individual projects.',
+            'Established engineering standards and infrastructure patterns adopted across 20+ projects.',
             'Introduced observability, CI/CD, and platform engineering practices that became organization-wide standards.',
             'Designed and implemented distributed systems leveraging event-driven architectures, message queues, pub/sub patterns, CDC pipelines, and real-time data streaming architectures, processing millions of transactions and supporting large-scale real-time workloads.',
             'Led cloud infrastructure strategy across AWS and GCP using Docker, Kubernetes, Terraform, Pulumi, and CI/CD pipelines, maintaining over 15 production servers.',
             'Participated directly in hiring processes, performance management, roadmap planning, client meetings, and technical pre-sales initiatives.',
             'Continue to lead architecture reviews, incident response, infrastructure troubleshooting, and complex technical delivery initiatives.',
-            'Directed organization-wide adoption of engineering best practices by conducting code reviews, implementing static analysis such as ESLint, successfully implementing practices across all 20+ projects over a 24-month period, in multiple tech stacks.',
+            'Directed organization-wide adoption of engineering best practices by conducting code reviews, implementing static analysis such as ESLint, and successfully implementing practices across all 20+ projects over a 24-month period, in multiple tech stacks.',
           ],
           stack: [
             'nodejs',
@@ -136,16 +136,16 @@ export const resume = {
           period: 'Jul 2020 — Jun 2021',
           intro: [],
           highlights: [
-            'Architected and developed over 5 successfully deployed software products owning the entire stack from frontend to backend and SDLC and infrastructure.',
+            'Architected and developed over 5 successfully deployed software products, owning the entire stack from frontend to backend and SDLC and infrastructure.',
             'Led meetings with client stakeholders, acting as the contact point for defining and refining product requirements and validating delivery.',
-            'Helped optimize and pinpoint performance issues in database queries and procedures measurably helping operational stability across different software solutions.',
+            'Helped optimize and pinpoint performance issues in database queries and procedures, measurably helping operational stability across different software solutions.',
             'Implemented and enforced SSL and deployment security practices into 4 legacy applications, handling the necessary adaptations and changes to bring a mature security posture to already deployed software.',
-            'Successfully deployed, tracked operational performance and provided key touchstone training inside client organizations for more than 5 software solutions.',
+            'Successfully deployed, tracked operational performance, and provided key touchstone training inside client organizations for more than 5 software solutions.',
             'Designed and implemented performance-critical components for high-volume real-time data processing systems, capable of processing thousands of simultaneous requests.',
-            'Set up the initial cloud infrastructure and environment setup, personally configuring and deploying over 6 servers, that would become the foundation for the company\'s software operation.',
+            'Set up the initial cloud infrastructure and environment, personally configuring and deploying more than 6 servers that would become the foundation of the company\'s software operations.',
             'Weighed in on transformative stack changes that would set the new standards for future projects inside the organization, pushing the migration to market-leading stack choices and allowing the organization to measurably accelerate the software development process.',
-            'Introduced and standardized PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana and other industry-leading technologies in an organization that utilized Oracle DB and Oracle APEX as the main stack, measurably reducing operational cost and complexity in new projects.',
-            'Tackled client challenges in PHP, C#, Java, Python and mixed codebases, operating as the team\'s polyglot programmer and empowering an existing team to deliver value in unfamiliar grounds while keeping confidence high.',
+            'Introduced and standardized PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana, and other industry-leading technologies in an organization that utilized Oracle DB and Oracle APEX as the main stack, measurably reducing operational cost and complexity in new projects.',
+            'Tackled client challenges in PHP, C#, Java, Python, and mixed codebases, operating as the team\'s polyglot programmer and empowering an existing team to deliver value in unfamiliar grounds while keeping confidence high.',
           ],
           stack: null,
         },
@@ -156,14 +156,14 @@ export const resume = {
           period: 'Aug 2019 — Jul 2020',
           intro: [],
           highlights: [
-            'Started an operation from scratch scaling to a 5-person team.',
-            'Directly negotiated and landed contracts with over 5 clients spanning different sectors and building a strong network of contacts that would serve as a strong foundation throughout the years.',
-            'Provided software development services to companies in the HR, Insurance, Real Estate and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals and employee portals.',
+            'Started an operation from scratch, scaling to a 5-person team.',
+            'Directly negotiated and landed contracts with over 5 clients spanning different sectors, and built a strong network of contacts that would serve as a strong foundation throughout the years.',
+            'Provided software development services to companies in the HR, Insurance, Real Estate, and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals, and employee portals.',
             'Delivered 7 custom ERP systems, internal business applications, and end-user-facing applications.',
             'Created and owned the entire stack for solutions that reached large Brazilian organizations through strategic partnerships, 2 of which reached multinational corporations.',
             'Directly coordinated and handled technical execution, client relationships, and operational decision-making.',
             'Managed servers and infrastructure for all published projects.',
-            'Implemented version control, SDLC, CI/CD and the entire development workflow for the organization.',
+            'Implemented version control, SDLC, CI/CD, and the entire development workflow for the organization.',
           ],
           stack: ['php', 'mysql', 'postgresql', 'javascript'],
         },
@@ -180,7 +180,7 @@ export const resume = {
             'Supported large-scale client platforms and mission-critical operational systems.',
             'Directly managed and implemented e-Commerce platforms for large enterprise clients.',
             'Direct ownership of the infrastructure and server configuration that supported the 3 applications developed during the contract.',
-            'Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in-house based on an open source offering.',
+            'Managed the intranet solution for the company, including a 5-component internal shared storage, collaboration, and task management suite developed in-house based on an open source offering.',
           ],
           stack: ['php', 'mysql', 'javascript', 'vue'],
         },
@@ -212,7 +212,7 @@ export const resume = {
         },
         {
           icon: 'team',
-          text: 'Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
+          text: 'Ran interviews, hired, and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
         },
         {
           icon: 'standards',
@@ -256,7 +256,7 @@ export const resume = {
       items: [
         {
           issuer: '',
-          name: 'Information Systems Auditing, Controls and Assurance',
+          name: 'Information Systems Auditing, Controls, and Assurance',
           credential: null,
           description:
             'Advanced coursework covering IT governance, risk management, auditing methodologies, controls, and assurance practices.',
@@ -266,7 +266,7 @@ export const resume = {
           name: 'Data Engineering',
           credential: null,
           description:
-            'Focused on modern data engineering practices including ETL pipelines, data warehousing, distributed data processing, cloud data platforms, and large-scale data management.',
+            'Focused on modern data engineering practices, including ETL pipelines, data warehousing, distributed data processing, cloud data platforms, and large-scale data management.',
         },
         {
           issuer: 'IBM',
@@ -327,8 +327,8 @@ export const resume = {
     summary: {
       title: 'Resumo Profissional',
       paragraphs: [
-        'Principal Level Engineer e Arquiteto de Software com 9 anos construindo sistemas distribuídos em tempo real e 5 anos definindo direção técnica para uma organização de engenharia com 17 pessoas.',
-        'Projetei mais de 20 plataformas em produção com Node.js, Kubernetes, AWS e GCP, e estabeleci os padrões de arquitetura, práticas de observabilidade e pipelines de CI/CD adotados por todos os times.',
+        'Principal Level Engineer e Arquiteto de Software com 9 anos de experiência construindo sistemas distribuídos em tempo real e 5 anos definindo direção técnica para uma organização de engenharia com 17 pessoas.',
+        'Projetei mais de 20 plataformas em produção com Node.js, Kubernetes, AWS e GCP, e estabeleci padrões de arquitetura, práticas de observabilidade e pipelines de CI/CD adotados por todos os times.',
       ],
     },
     competencies: {
@@ -407,13 +407,13 @@ export const resume = {
           highlights: [
             'Conduzi entrevistas, contratei e desenhei a estrutura de times que ajudou a escalar a organização de uma operação com 3 pessoas para um time de 17 profissionais entre engenharia e entrega.',
             'Arquitetei e entreguei mais de 20 sistemas em produção, incluindo produtos internos, plataformas para clientes e projetos de outsourcing.',
-            'Estabeleci padrões de engenharia e infraestrutura adotados em mais de 20 projetos individuais.',
+            'Estabeleci padrões de engenharia e infraestrutura adotados em mais de 20 projetos.',
             'Introduzi práticas de observabilidade, CI/CD e platform engineering que se tornaram padrões organizacionais.',
             'Projetei e implementei sistemas distribuídos com arquiteturas orientadas a eventos, filas de mensagens, padrões pub/sub, pipelines CDC e arquiteturas de streaming de dados em tempo real, processando milhões de transações e suportando workloads em tempo real em larga escala.',
             'Liderei a estratégia de infraestrutura cloud em AWS e GCP usando Docker, Kubernetes, Terraform, Pulumi e pipelines de CI/CD, mantendo mais de 15 servidores em produção.',
             'Participei diretamente de processos de contratação, gestão de performance, planejamento de roadmap, reuniões com clientes e iniciativas de pré-venda técnica.',
             'Continuo liderando revisões de arquitetura, resposta a incidentes, troubleshooting de infraestrutura e iniciativas complexas de entrega técnica.',
-            'Conduzi a adoção organizacional de boas práticas de engenharia por meio de code reviews, implementação de análise estática como ESLint, implementando práticas com sucesso em todos os 20+ projetos ao longo de 24 meses, em múltiplas stacks.',
+            'Conduzi a adoção organizacional de boas práticas de engenharia por meio de code reviews, implementação de análise estática como ESLint, e implementação bem-sucedida de práticas em todos os 20+ projetos ao longo de 24 meses, em múltiplas stacks.',
           ],
           stack: [
             'nodejs',
@@ -443,10 +443,10 @@ export const resume = {
             'Implementei e apliquei práticas de SSL e segurança de deploy em 4 aplicações legadas, realizando as adaptações necessárias para trazer uma postura de segurança madura a software já implantado.',
             'Implantei com sucesso, acompanhei performance operacional e forneci treinamentos-chave dentro de organizações de clientes para mais de 5 soluções de software.',
             'Projetei e implementei componentes críticos de performance para sistemas de processamento de dados em tempo real de alto volume, capazes de processar milhares de requisições simultâneas.',
-            'Configurei a infraestrutura cloud inicial e ambientes, implantando pessoalmente mais de 6 servidores que se tornaram a base da operação de software da empresa.',
+            'Configurei a infraestrutura cloud inicial e ambientes, implantando pessoalmente mais de 6 servidores que se tornaram a base das operações de software da empresa.',
             'Participei de mudanças transformadoras de stack que definiram os novos padrões para projetos futuros na organização, impulsionando a migração para escolhas de stack líderes de mercado e permitindo acelerar mensuravelmente o processo de desenvolvimento de software.',
-            'Introduzi e padronizei PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana e outras tecnologias líderes de mercado em uma organização que utilizava Oracle DB e Oracle APEX como stack principal, reduzindo mensuravelmente custo operacional e complexidade em novos projetos.',
-            'Enfrentei desafios de clientes em PHP, C#, Java, Python e codebases mistos, atuando como programador poliglota do time e capacitando uma equipe existente a entregar valor em territórios desconhecidos mantendo alta confiança.',
+            'Introduzi e padronizei PostgreSQL, Redis, Docker, Kubernetes, Pulumi, Grafana, e outras tecnologias líderes de mercado em uma organização que utilizava Oracle DB e Oracle APEX como stack principal, reduzindo mensuravelmente custo operacional e complexidade em novos projetos.',
+            'Enfrentei desafios de clientes em PHP, C#, Java, Python, e codebases mistos, atuando como programador poliglota do time e capacitando uma equipe existente a entregar valor em territórios desconhecidos mantendo alta confiança.',
           ],
           stack: null,
         },
@@ -458,13 +458,13 @@ export const resume = {
           intro: [],
           highlights: [
             'Iniciei uma operação do zero, escalando para um time de 5 pessoas.',
-            'Negociei diretamente e fechei contratos com mais de 5 clientes em diferentes setores, construindo uma rede sólida de contatos que serviria de base ao longo dos anos.',
-            'Prestei serviços de desenvolvimento de software para empresas dos setores de RH, Seguros, Imobiliário e e-Commerce, com entregas que incluíam websites, plataformas de e-commerce, gestão de imóveis, portais de vendas e portais de colaboradores.',
+            'Negociei diretamente e fechei contratos com mais de 5 clientes em diferentes setores, e construí uma rede sólida de contatos que serviria de base ao longo dos anos.',
+            'Prestei serviços de desenvolvimento de software para empresas dos setores de RH, Seguros, Imobiliário, e e-Commerce, com entregas que incluíam websites, plataformas de e-commerce, gestão de imóveis, portais de vendas, e portais de colaboradores.',
             'Entreguei 7 sistemas ERP customizados, aplicações internas de negócio e aplicações voltadas ao usuário final.',
             'Criei e fui responsável por toda a stack de soluções que alcançaram grandes organizações brasileiras por meio de parcerias estratégicas, 2 das quais chegaram a corporações multinacionais.',
             'Coordenei diretamente a execução técnica, relacionamentos com clientes e tomada de decisões operacionais.',
             'Gerenciei servidores e infraestrutura de todos os projetos publicados.',
-            'Implementei controle de versão, SDLC, CI/CD e todo o fluxo de desenvolvimento da organização.',
+            'Implementei controle de versão, SDLC, CI/CD, e todo o fluxo de desenvolvimento da organização.',
           ],
           stack: ['php', 'mysql', 'postgresql', 'javascript'],
         },
@@ -481,7 +481,7 @@ export const resume = {
             'Dei suporte a plataformas de clientes em larga escala e sistemas operacionais críticos.',
             'Gerenciei e implementei diretamente plataformas de e-Commerce para grandes clientes corporativos.',
             'Tive ownership direto da infraestrutura e configuração de servidores que suportaram as 3 aplicações desenvolvidas durante o contrato.',
-            'Gerenciei a solução de intranet da empresa, incluindo um suite interno de armazenamento compartilhado, colaboração e gestão de tarefas com 5 componentes, desenvolvido in-house com base em uma solução open source.',
+            'Gerenciei a solução de intranet da empresa, incluindo um suite interno de armazenamento compartilhado, colaboração, e gestão de tarefas com 5 componentes, desenvolvido in-house com base em uma solução open source.',
           ],
           stack: ['php', 'mysql', 'javascript', 'vue'],
         },
@@ -557,7 +557,7 @@ export const resume = {
       items: [
         {
           issuer: '',
-          name: 'Information Systems Auditing, Controls and Assurance',
+          name: 'Information Systems Auditing, Controls, and Assurance',
           credential: null,
           description:
             'Curso avançado sobre governança de TI, gestão de riscos, metodologias de auditoria, controles e práticas de assurance.',
