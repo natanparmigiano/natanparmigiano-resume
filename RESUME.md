@@ -9,7 +9,7 @@ São Caetano do Sul, São Paulo, Brazil
 
 ## SUMMARY
 
-Principal Engineer and Software Architect with 8+ years of experience building distributed systems, cloud-native platforms, and real-time applications. Designed and operated 20+ production systems processing millions of transactions using Node.js, TypeScript, PostgreSQL, Kubernetes, AWS, and GCP. Strong track record driving architecture, platform reliability, and technical direction across growing engineering organizations.
+Principal Level Engineer and Software Architect with 9 years building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization. Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established the architecture standards, observability practices, and CI/CD pipelines adopted across every team.
 
 Web Resume: https://natan.parmigiano.tech
 Portfolio: https://portfolio.natan.parmigiano.tech
@@ -18,7 +18,7 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 
 ### CTO | Paganini Tech | São Paulo | July 2021 - PRESENT
 
-- Helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.
+- Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.
 - Architected and delivered more than 20 production systems spanning internal products, client platforms, and outsourcing initiatives.
 - Established engineering standards and infrastructure patterns adopted across over 20 individual projects.
 - Introduced observability, CI/CD, and platform engineering practices that became organization-wide standards.
@@ -26,7 +26,7 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 - Led cloud infrastructure strategy across AWS and GCP using Docker, Kubernetes, Terraform, Pulumi, and CI/CD pipelines, maintaining over 15 production servers.
 - Participated directly in hiring processes, performance management, roadmap planning, client meetings, and technical pre-sales initiatives.
 - Continue to lead architecture reviews, incident response, infrastructure troubleshooting, and complex technical delivery initiatives.
-- Primary stack: Node.js, TypeScript, Vue.js, PostgreSQL, Redis, Kubernetes, AWS, GCP, Docker, Pulumi, Grafana and AI Systems. Occasionally utilizing PHP, C#, Python, Mysql, Dynamodb, React, React Native.
+- Primary stack: Node.js, TypeScript, Vue.js, PostgreSQL, Redis, Kubernetes, AWS, GCP, Docker, Pulumi, Grafana and AI Systems. Occasionally utilizing PHP, C#, Python, MySQL, DynamoDB, React, React Native.
 - Directed organization-wide adoption of engineering best practices by conducting code reviews, implementing static analysis such as ESLint, successfully implementing practices across all 20+ projects over a 24-month period, in multiple tech stacks.
 
 ### Senior Engineer | Paganini Tech | São Paulo | July 2020 - June 2021
@@ -44,15 +44,15 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 
 ### Co-founder & IT Director | Marketing Labs | São Paulo | August 2019 - July 2020
 
-- Started an operation from scratch scaling to a 5 person team.
+- Started an operation from scratch scaling to a 5-person team.
 - Directly negotiated and landed contracts with over 5 clients spanning different sectors and building a strong network of contacts that would serve as a strong foundation throughout the years.
 - Provided software development services to companies in the HR, Insurance, Real Estate and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals and employee portals.
-- Delivered 7 custom ERP systems, internal business applications, and end user facing applications.
+- Delivered 7 custom ERP systems, internal business applications, and end-user-facing applications.
 - Created and owned the entire stack for solutions that reached large Brazilian organizations through strategic partnerships, 2 of which reached multinational corporations.
 - Directly coordinated and handled technical execution, client relationships, and operational decision-making.
 - Managed servers and infrastructure for all published projects.
 - Implemented version control, SDLC, CI/CD and the entire development workflow for the organization.
-- Primary Stack: PHP, Mysql, PostgreSQL, Javascript, frontend technologies (HTML, CSS).
+- Primary Stack: PHP, MySQL, PostgreSQL, JavaScript, frontend technologies (HTML, CSS).
 
 ### Fullstack Developer | Make Acelerador de Vendas | São Paulo | March 2019 - September 2019
 
@@ -62,8 +62,8 @@ Portfolio: https://portfolio.natan.parmigiano.tech
 - Supported large-scale client platforms and mission-critical operational systems.
 - Directly managed and implemented e-Commerce platforms for large enterprise clients.
 - Direct ownership of the infrastructure and server configuration that supported the 3 applications developed during the contract.
-- Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in house based on an open source offering.
-- Primary Stack: PHP, Mysql, Javascript, CSS, Vue.js.
+- Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in-house based on an open source offering.
+- Primary Stack: PHP, MySQL, JavaScript, CSS, Vue.js.
 
 ### Fullstack Developer | Freelancer | São Paulo | January 2017 - March 2019
 
@@ -159,7 +159,7 @@ São Bernardo do Campo, SP | 2017
 
 - Focused on modern data engineering practices including ETL pipelines, data warehousing, distributed data processing, cloud data platforms, and large-scale data management.
 
-### Python for Data Science, Al & Development
+### Python for Data Science, AI & Development
 
 - Covered Python programming for software development, automation, data analysis, and AI workflows, including practical applications using industry-standard libraries and tools.
 

@@ -2,15 +2,15 @@ export const resume = {
   en: {
     meta: {
       name: 'Natan Parmigiano',
-      headline: 'Principal Engineer & Software Architect',
+      headline: 'Principal Level Engineer & Software Architect',
       location: 'São Caetano do Sul, São Paulo, Brazil',
       email: 'natan.parmigiano@gmail.com',
       linkedin: 'https://www.linkedin.com/in/natanparmigiano',
       portfolio: 'https://portfolio.natan.parmigiano.tech',
       focusAreas: ['Distributed Systems', 'Cloud Infrastructure', 'Platform Engineering'],
       stats: [
-        { value: '8+', label: 'years building software' },
-        { value: '20+', label: 'production systems' },
+        { value: '9', label: 'years building software' },
+        { value: '20+', label: 'production platforms' },
         { value: '17', label: 'person engineering org' },
       ],
     },
@@ -26,8 +26,8 @@ export const resume = {
     summary: {
       title: 'Professional Summary',
       paragraphs: [
-        'Principal Engineer and Software Architect with 8+ years of experience building distributed systems, cloud-native platforms, and real-time applications.',
-        'Designed and operated 20+ production systems processing millions of transactions using Node.js, TypeScript, PostgreSQL, Kubernetes, AWS, and GCP. Strong track record driving architecture, platform reliability, and technical direction across growing engineering organizations.',
+        'Principal Level Engineer and Software Architect with 9 years building distributed, real-time systems and 5 years setting technical direction for a 17-person engineering organization.',
+        'Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP, and established the architecture standards, observability practices, and CI/CD pipelines adopted across every team.',
       ],
     },
     competencies: {
@@ -104,7 +104,7 @@ export const resume = {
           period: 'Jul 2021 — Present',
           intro: [],
           highlights: [
-            'Helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
+            'Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
             'Architected and delivered more than 20 production systems spanning internal products, client platforms, and outsourcing initiatives.',
             'Established engineering standards and infrastructure patterns adopted across over 20 individual projects.',
             'Introduced observability, CI/CD, and platform engineering practices that became organization-wide standards.',
@@ -156,10 +156,10 @@ export const resume = {
           period: 'Aug 2019 — Jul 2020',
           intro: [],
           highlights: [
-            'Started an operation from scratch scaling to a 5 person team.',
+            'Started an operation from scratch scaling to a 5-person team.',
             'Directly negotiated and landed contracts with over 5 clients spanning different sectors and building a strong network of contacts that would serve as a strong foundation throughout the years.',
             'Provided software development services to companies in the HR, Insurance, Real Estate and e-Commerce sectors, with services ranging from websites, e-commerce platforms, property management, sales portals and employee portals.',
-            'Delivered 7 custom ERP systems, internal business applications, and end user facing applications.',
+            'Delivered 7 custom ERP systems, internal business applications, and end-user-facing applications.',
             'Created and owned the entire stack for solutions that reached large Brazilian organizations through strategic partnerships, 2 of which reached multinational corporations.',
             'Directly coordinated and handled technical execution, client relationships, and operational decision-making.',
             'Managed servers and infrastructure for all published projects.',
@@ -180,7 +180,7 @@ export const resume = {
             'Supported large-scale client platforms and mission-critical operational systems.',
             'Directly managed and implemented e-Commerce platforms for large enterprise clients.',
             'Direct ownership of the infrastructure and server configuration that supported the 3 applications developed during the contract.',
-            'Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in house based on an open source offering.',
+            'Managed the intranet solution for the company, including a 5 component internal shared storage, collaboration and task management suite developed in-house based on an open source offering.',
           ],
           stack: ['php', 'mysql', 'javascript', 'vue'],
         },
@@ -208,11 +208,11 @@ export const resume = {
       items: [
         {
           icon: 'production',
-          text: 'Designed and operated 20+ production systems processing millions of transactions.',
+          text: 'Designed 20+ production platforms on Node.js, Kubernetes, AWS, and GCP.',
         },
         {
           icon: 'team',
-          text: 'Helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
+          text: 'Ran interviews, hired and designed the team structure that helped scale the organization from a 3-person operation to a 17-member engineering and delivery team.',
         },
         {
           icon: 'standards',
@@ -220,7 +220,7 @@ export const resume = {
         },
         {
           icon: 'delivery',
-          text: 'Delivered 7 custom ERP systems, internal business applications, and end user facing applications.',
+          text: 'Delivered 7 custom ERP systems, internal business applications, and end-user-facing applications.',
         },
         {
           icon: 'migration',
@@ -303,15 +303,15 @@ export const resume = {
   pt: {
     meta: {
       name: 'Natan Parmigiano',
-      headline: 'Principal Engineer & Arquiteto de Software',
+      headline: 'Principal Level Engineer & Arquiteto de Software',
       location: 'São Caetano do Sul, São Paulo, Brasil',
       email: 'natan.parmigiano@gmail.com',
       linkedin: 'https://www.linkedin.com/in/natanparmigiano',
       portfolio: 'https://portfolio.natan.parmigiano.tech',
       focusAreas: ['Sistemas Distribuídos', 'Infraestrutura Cloud', 'Platform Engineering'],
       stats: [
-        { value: '8+', label: 'anos desenvolvendo software' },
-        { value: '20+', label: 'sistemas em produção' },
+        { value: '9', label: 'anos desenvolvendo software' },
+        { value: '20+', label: 'plataformas em produção' },
         { value: '17', label: 'pessoas em times de engenharia' },
       ],
     },
@@ -327,8 +327,8 @@ export const resume = {
     summary: {
       title: 'Resumo Profissional',
       paragraphs: [
-        'Principal Engineer e arquiteto de software com mais de 8 anos de experiência construindo sistemas distribuídos, plataformas cloud-native e aplicações em tempo real.',
-        'Projetei e operei mais de 20 sistemas em produção processando milhões de transações com Node.js, TypeScript, PostgreSQL, Kubernetes, AWS e GCP. Histórico consistente conduzindo arquitetura, confiabilidade de plataforma e direção técnica em organizações de engenharia em crescimento.',
+        'Principal Level Engineer e Arquiteto de Software com 9 anos construindo sistemas distribuídos em tempo real e 5 anos definindo direção técnica para uma organização de engenharia com 17 pessoas.',
+        'Projetei mais de 20 plataformas em produção com Node.js, Kubernetes, AWS e GCP, e estabeleci os padrões de arquitetura, práticas de observabilidade e pipelines de CI/CD adotados por todos os times.',
       ],
     },
     competencies: {
@@ -405,7 +405,7 @@ export const resume = {
           period: 'Jul 2021 — Presente',
           intro: [],
           highlights: [
-            'Ajudei a escalar a organização de uma operação com 3 pessoas para um time de 17 profissionais entre engenharia e entrega.',
+            'Conduzi entrevistas, contratei e desenhei a estrutura de times que ajudou a escalar a organização de uma operação com 3 pessoas para um time de 17 profissionais entre engenharia e entrega.',
             'Arquitetei e entreguei mais de 20 sistemas em produção, incluindo produtos internos, plataformas para clientes e projetos de outsourcing.',
             'Estabeleci padrões de engenharia e infraestrutura adotados em mais de 20 projetos individuais.',
             'Introduzi práticas de observabilidade, CI/CD e platform engineering que se tornaram padrões organizacionais.',
@@ -481,7 +481,7 @@ export const resume = {
             'Dei suporte a plataformas de clientes em larga escala e sistemas operacionais críticos.',
             'Gerenciei e implementei diretamente plataformas de e-Commerce para grandes clientes corporativos.',
             'Tive ownership direto da infraestrutura e configuração de servidores que suportaram as 3 aplicações desenvolvidas durante o contrato.',
-            'Gerenciei a solução de intranet da empresa, incluindo um suite interno de armazenamento compartilhado, colaboração e gestão de tarefas com 5 componentes, desenvolvido in house com base em uma solução open source.',
+            'Gerenciei a solução de intranet da empresa, incluindo um suite interno de armazenamento compartilhado, colaboração e gestão de tarefas com 5 componentes, desenvolvido in-house com base em uma solução open source.',
           ],
           stack: ['php', 'mysql', 'javascript', 'vue'],
         },
@@ -509,11 +509,11 @@ export const resume = {
       items: [
         {
           icon: 'production',
-          text: 'Projetei e operei mais de 20 sistemas em produção processando milhões de transações.',
+          text: 'Projetei mais de 20 plataformas em produção com Node.js, Kubernetes, AWS e GCP.',
         },
         {
           icon: 'team',
-          text: 'Ajudei a escalar a organização de uma operação com 3 pessoas para um time de 17 profissionais entre engenharia e entrega.',
+          text: 'Conduzi entrevistas, contratei e desenhei a estrutura de times que ajudou a escalar a organização de uma operação com 3 pessoas para um time de 17 profissionais entre engenharia e entrega.',
         },
         {
           icon: 'standards',
