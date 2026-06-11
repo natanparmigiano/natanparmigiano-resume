@@ -13,11 +13,13 @@ pnpm install
 pnpm dev
 ```
 
-Build for production:
+Build for production (static site generation):
 
 ```bash
 pnpm build
 ```
+
+The build pre-renders `/` (English) and `/pt` (Portuguese) as static HTML for search indexing, then hydrates as a Vue app in the browser.
 
 Deploy to Cloudflare (requires Wrangler setup):
 

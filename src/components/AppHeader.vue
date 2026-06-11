@@ -33,7 +33,7 @@ const emit = defineEmits(['language-change'])
     class="sticky top-0 z-50 border-b border-[var(--border-subtle)] bg-[var(--bg)]/82 backdrop-blur-xl"
   >
     <div class="mx-auto flex max-w-5xl items-center justify-between gap-4 px-5 py-3 sm:px-6">
-      <a href="#" class="min-w-0 font-mono text-xs font-semibold uppercase tracking-[0.22em] text-[var(--text)] no-underline hover:text-[var(--accent)]">
+      <a :href="language === 'pt' ? '/pt' : '/'" class="min-w-0 font-mono text-xs font-semibold uppercase tracking-[0.22em] text-[var(--text)] no-underline hover:text-[var(--accent)]">
         {{ meta.name }}
       </a>
 
