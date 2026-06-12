@@ -5,6 +5,9 @@ const STORAGE_KEY = 'cv-theme'
 function getInitialTheme() {
   if (typeof window === 'undefined') return 'light'
 
+  const existing = document.documentElement.dataset.theme
+  if (existing === 'light' || existing === 'dark') return existing
+
   const stored = localStorage.getItem(STORAGE_KEY)
   if (stored === 'light' || stored === 'dark') return stored
 
